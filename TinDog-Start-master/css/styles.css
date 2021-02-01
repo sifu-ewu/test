@@ -1,0 +1,56 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body{
+    height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+.background{
+
+  background-image: url(../images/904.jpg);
+  /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+
+
+}
+.head{
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+  font-size: 2.68675rem;
+  line-height: 1.25;
+
+}
+.container-fluid{
+  padding: 3% 15% ;
+}
+.vpn{
+  position: relative;
+  left: 80px;
+  top: 10px;
+
+
+}
+
+.nav-item{
+
+
+}
+.nav-link{
+
+  font-weight: bold;
+
+}
+.navbar-brand{
+  font-weight: bold;
+}
